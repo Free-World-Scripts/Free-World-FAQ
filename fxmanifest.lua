@@ -6,6 +6,8 @@ Title 'Free World FAQ'
 
 Author 'Free World Scripts'
 
+version 'v1.0.0'
+
 Description 'Free World FAQ Page'
 
 client_script 'client.lua'

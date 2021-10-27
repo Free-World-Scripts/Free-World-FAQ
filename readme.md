@@ -1,7 +1,9 @@
 # Free World FAQ
 # DISCORD FOR SUPPORT & QUESTIONS:https://discord.gg/2FAcPUmUWq
+## Also the discord has early releases
+### THIS NEEDS TO BE NAMED FW-FAQ
 This runs @ 0.00ms
-THIS NEEDS TO BE NAMED FW-FAQ
+
 
 <img alt="Qries" src="https://cdn.discordapp.com/attachments/732445566113415200/902682723490091048/FW-FAQ.png"></img>
 

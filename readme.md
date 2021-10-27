@@ -1,4 +1,5 @@
 # Free World FAQ
+# DISCORD FOR SUPPORT & QUESTIONS:https://discord.gg/2FAcPUmUWq
 This runs @ 0.00ms
 THIS NEEDS TO BE NAMED FW-FAQ
 
